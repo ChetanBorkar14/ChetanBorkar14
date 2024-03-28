@@ -3,4 +3,4 @@
 - 👀 I’m interested in learning app development and machine learning
 - 🌱 I’m currently learning C++ and Javascript
 - ### HackerRank Profile
-[@chetanvb1411](https://www.hackerrank.com/Chetan Borkar)
+[Chetan Borkar](https://www.hackerrank.com/@chetanvb1411)
